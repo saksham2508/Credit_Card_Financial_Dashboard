@@ -18,7 +18,7 @@ This Power BI dashboard project analyzes credit card transaction and customer be
   
   **6.** _[Customer additional data](https://github.com/saksham2508/Credit_Card_Financial_Dashboard/blob/main/cust_add.csv)_ 
   
-  **7.** _[SQL Script](https://github.com/saksham2508/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Customer_Report.pdf)_ 
+  **7.** _[SQL Script](https://github.com/saksham2508/Credit_Card_Financial_Dashboard/blob/main/SQL%20Query%20-%20Financial%20Dashboard%20Data.sql)_ 
 
 ---
 
